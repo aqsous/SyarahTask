@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Syarah</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="save">Save</string>
+    <string name="photo_saved">Photo Saved</string>
+</resources>
